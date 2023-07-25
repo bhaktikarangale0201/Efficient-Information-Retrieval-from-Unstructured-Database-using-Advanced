@@ -5,7 +5,7 @@ document searching based on the given query involve removing of the stopping wor
 relevance score of a particular quey in set of documents. This will ultimately minimize the time for searching the relevant documents from the large databases. 
 
 ## History of Information Retrieval Models
-## Father of Information Retrieval : Gerard Salton
+### Father of Information Retrieval : Gerard Salton
 
 1. Boolean Retrieval Model
 2. Vector Space Model
@@ -13,9 +13,9 @@ relevance score of a particular quey in set of documents. This will ultimately m
 4. Language Model
 5. Okapi BM25 model (Best Matching 25)
 6. Latent Semantic Indexing model
-7. Neural Information Retrieval model
-8. Sequential Information Retrieva model
+7. Neural model
+8. Sequential model
 9. Learning to Rank model
-10. Personalized Information Retrieval model
-11. Interactive Information Retrieval model
-12. Contextual Information Retrieval model
+10. Personalized model
+11. Interactive model
+12. Contextual model
